@@ -5,7 +5,7 @@ function MainFooter() {
   return (
     <Typography variant="body2" color="text.secondary" align="center" p={1}>
       {"Copyright © "}
-      <Link color="inherit" href="https://www.woshee.com/">
+      <Link color="inherit" href="https://coderschool.com" target="_blank">
         CoderSchool
       </Link>{" "}
       {new Date().getFullYear()}
